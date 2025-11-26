@@ -39,7 +39,7 @@ const Index = () => {
             
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight font-display">
               O <span className="text-primary glow-text-blue">maior material</span> de{" "}
-              <span className="text-primary glow-text-blue">VÍDEO PARTITURAS</span> para saxofone!
+              <span className="text-primary glow-text-blue">VÍDEO PARTITURAS</span> para violino!
             </h1>
             
             
